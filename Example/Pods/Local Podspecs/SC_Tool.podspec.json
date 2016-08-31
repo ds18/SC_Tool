@@ -1,0 +1,22 @@
+{
+  "name": "SC_Tool",
+  "version": "0.1.0",
+  "summary": "A short description of SC_Tool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SC_Tool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "段帅": "576616412@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SC_Tool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SC_Tool/Classes/**/*"
+}
